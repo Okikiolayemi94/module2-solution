@@ -1,5 +1,5 @@
-<style>
-/*basic style*/ {
+
+/*basic style*/ *{
     box-sizing: border-box;
 }
 
@@ -118,4 +118,3 @@ div {
         width: 100%;
     }
 }
-</style >
